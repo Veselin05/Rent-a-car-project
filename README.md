@@ -22,7 +22,7 @@ Requirements:
 
 How to Run the Project:
 	1.	Clone the repository:
- git clone https://github.com/your-username/rent-a-car.git
+ git clone https://github.com/Veselin05/Rent-a-car-project.git
 cd rent-a-car
 	2.	Ensure the necessary files (vehicles.txt and rentedVehicles.txt) are in the same directory as the script.
 	3.	Run the Python script:
